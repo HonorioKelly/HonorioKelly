@@ -57,6 +57,8 @@
 
 <br clear="both">
 
+![Snake animation](https://raw.githubusercontent.com/HonorioKelly/HonorioKelly/output/snake.svg)
+
 <img src="https://raw.githubusercontent.com/HonorioKelly/HonorioKelly/output/snake.svg" alt="Snake animation" />
 
 ###
