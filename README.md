@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HonorioKelly/HonorioKelly/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HonorioKelly/HonorioKelly/output/snake.svg" alt="Snake animation" />
 
 ###
