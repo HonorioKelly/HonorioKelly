@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Meu nome é Kelly Eloysa, sou uma futura Cientista de Dados.</h2>
+<h2 align="left">Hi 👋! Meu nome é Kelly Eloysa, sou uma futura Desenvolvedora.</h2>
 
 
 ###
